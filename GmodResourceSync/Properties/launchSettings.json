@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "GmodResourceSync": {
-      "commandName": "Project",
-      "commandLineArgs": "\"D:\\Dokumente\\OneDrive\\Dokumente\\Projekte\\GmodResourceSync\\Test\\gmod\" \"D:\\Dokumente\\OneDrive\\Dokumente\\Projekte\\GmodResourceSync\\Test\\fastdl\" \"P:\\Program Files\\7-Zip\\7z.exe\""
-    }
-  }
-}
